@@ -1,0 +1,19 @@
+#login {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.login-frame {
+    position: absolute;
+    top: 18vh;
+    right: 12vw;
+    height: 430px;
+    width: 360px;
+    background: #cfd8dc;
+    opacity: 0.8;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px #eceff1;
+}
